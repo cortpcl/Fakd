@@ -1,0 +1,14 @@
+﻿<Medarbejder id="4491" version="ef51ebc3-10e4-4926-9b79-307c91ee83a6" parentID="4490" level="2" writerID="0" nodeType="4489" template="0" sortOrder="1" createDate="2014-01-20T15:05:24" updateDate="2014-01-20T15:05:24" nodeName="sofiew" urlName="sofiew" writerName="admin" nodeTypeAlias="Medarbejder" path="-1,4490,4491">
+  <uploadFile>/media/193420/sw_billede.jpg</uploadFile>
+  <umbracoWidth>80</umbracoWidth>
+  <umbracoHeight>95</umbracoHeight>
+  <umbracoExtension>jpg</umbracoExtension>
+  <user>6</user>
+</Medarbejder>
+<Medarbejder id="4517" version="a99b8713-d221-4482-8f11-aa174a8c1120" parentID="4490" level="2" writerID="0" nodeType="4489" template="0" sortOrder="2" createDate="2014-01-23T08:17:21" updateDate="2014-01-23T08:17:21" nodeName="admin" urlName="admin" writerName="admin" nodeTypeAlias="Medarbejder" path="-1,4490,4517">
+  <uploadFile>/media/193852/profile.jpg</uploadFile>
+  <umbracoWidth>100</umbracoWidth>
+  <umbracoHeight>128</umbracoHeight>
+  <umbracoExtension>jpg</umbracoExtension>
+  <user>0</user>
+</Medarbejder>

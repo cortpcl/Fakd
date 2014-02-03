@@ -1,0 +1,12 @@
+﻿Du modtager denne email fordi et medlem har ændret sine oplysninger på diaetist.dk.
+ 
+ 
+ Brugernavn : <%UserName%>
+ 
+ Du kan finde medlemmet i "Members" sektionen
+
+
+ Ændringer foretaget: <%changes%>
+
+        Med venlig hilsen
+        www.diaetist.dk

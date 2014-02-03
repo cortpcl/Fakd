@@ -1,0 +1,173 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakd.Custom.Code", "Fakd.Custom.Code\Fakd.Custom.Code.csproj", "{9A1E3317-5408-44CE-A2DB-BE5674363EF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21737811-69FE-43A9-A547-7605557FAD31}"
+	ProjectSection(SolutionItems) = preProject
+		..\Fakd.Blog\Umlaut.Umb.Blog\AddFilesToPackage.exe = ..\Fakd.Blog\Umlaut.Umb.Blog\AddFilesToPackage.exe
+		..\Fakd.Blog\Umlaut.Umb.Blog\changes.txt = ..\Fakd.Blog\Umlaut.Umb.Blog\changes.txt
+		..\Fakd.Blog\Umlaut.Umb.Blog\nant.build = ..\Fakd.Blog\Umlaut.Umb.Blog\nant.build
+		..\Fakd.Blog\Umlaut.Umb.Blog\package.xml = ..\Fakd.Blog\Umlaut.Umb.Blog\package.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core DLLS", "Core DLLS", "{8068A98B-A82C-4608-9343-A4170FBA0615}"
+	ProjectSection(SolutionItems) = preProject
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\businesslogic.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\businesslogic.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\cms.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\cms.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\controls.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\controls.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\ICSharpCode.SharpZipLib.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\ICSharpCode.SharpZipLib.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\interfaces.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\interfaces.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\umbraco.DataLayer.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\umbraco.DataLayer.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\umbraco.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\umbraco.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\umbraco.editorControls.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Core DLLS\umbraco.editorControls.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foreign DLLS", "Foreign DLLS", "{C139849F-C46C-4918-BFE3-4A41139F0728}"
+	ProjectSection(SolutionItems) = preProject
+		..\Fakd.Blog\Umlaut.Umb.Blog\Foreign DLLS\Joel.Net.Akismet.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Foreign DLLS\Joel.Net.Akismet.dll
+		..\Fakd.Blog\Umlaut.Umb.Blog\Foreign DLLS\PackageActionsContrib.dll = ..\Fakd.Blog\Umlaut.Umb.Blog\Foreign DLLS\PackageActionsContrib.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packaging", "packaging", "{742CF8B7-9FC4-4D25-B846-DCF77775025E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0", "4.0", "{CC14DFFE-354F-437F-8108-2A76F55F893A}"
+	ProjectSection(SolutionItems) = preProject
+		..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.0\default.build = ..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.0\default.build
+		..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.0\package.xml = ..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.0\package.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.5", "4.5", "{2ECDA938-F9CF-4DF9-A611-54CA7C541B33}"
+	ProjectSection(SolutionItems) = preProject
+		..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.5\default.build = ..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.5\default.build
+		..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.5\package.xml = ..\Fakd.Blog\Umlaut.Umb.Blog\packaging\4.5\package.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umlaut.Umb.Blog", "..\Fakd.Blog\Umlaut.Umb.Blog\Umlaut.Umb.Blog\Umlaut.Umb.Blog.csproj", "{656FFAC9-E298-442B-A90F-5ED2B9F196D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BP.Umb.Dashboard.MemberAdmin", "..\BP.Umb.Dashboard.MemberAdmin\BP.Umb.Dashboard.MemberAdmin.csproj", "{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section.Jobs", "..\Fakd.Section.Jobs\Section.Jobs\Section.Jobs\Section.Jobs.csproj", "{6B895B54-C0FC-4325-A114-3DBED76F1374}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items (2)", "Solution Items (2)", "{1125120D-A442-490E-AB3A-E40B2FC2FCFE}"
+	ProjectSection(SolutionItems) = preProject
+		..\ucomment-70298\branches\1.2\AddFilesToPackage.exe = ..\ucomment-70298\branches\1.2\AddFilesToPackage.exe
+		..\ucomment-70298\branches\1.2\changes.txt = ..\ucomment-70298\branches\1.2\changes.txt
+		..\ucomment-70298\branches\1.2\nant.build = ..\ucomment-70298\branches\1.2\nant.build
+		..\ucomment-70298\branches\1.2\package.xml = ..\ucomment-70298\branches\1.2\package.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core DLLS", "Core DLLS", "{435F0B22-AB4F-4306-8460-2A657A32278E}"
+	ProjectSection(SolutionItems) = preProject
+		..\ucomment-70298\branches\1.2\Core DLLS\businesslogic.dll = ..\ucomment-70298\branches\1.2\Core DLLS\businesslogic.dll
+		..\ucomment-70298\branches\1.2\Core DLLS\cms.dll = ..\ucomment-70298\branches\1.2\Core DLLS\cms.dll
+		..\ucomment-70298\branches\1.2\Core DLLS\controls.dll = ..\ucomment-70298\branches\1.2\Core DLLS\controls.dll
+		..\ucomment-70298\branches\1.2\Core DLLS\ICSharpCode.SharpZipLib.dll = ..\ucomment-70298\branches\1.2\Core DLLS\ICSharpCode.SharpZipLib.dll
+		..\ucomment-70298\branches\1.2\Core DLLS\interfaces.dll = ..\ucomment-70298\branches\1.2\Core DLLS\interfaces.dll
+		..\ucomment-70298\branches\1.2\Core DLLS\umbraco.DataLayer.dll = ..\ucomment-70298\branches\1.2\Core DLLS\umbraco.DataLayer.dll
+		..\ucomment-70298\branches\1.2\Core DLLS\umbraco.dll = ..\ucomment-70298\branches\1.2\Core DLLS\umbraco.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foreign DLLS", "Foreign DLLS", "{6A913DA1-F6FA-4E5C-B44F-9304307E8DC1}"
+	ProjectSection(SolutionItems) = preProject
+		..\ucomment-70298\branches\1.2\Foreign DLLS\Joel.Net.Akismet.dll = ..\ucomment-70298\branches\1.2\Foreign DLLS\Joel.Net.Akismet.dll
+		..\ucomment-70298\branches\1.2\Foreign DLLS\PackageActionsContrib.dll = ..\ucomment-70298\branches\1.2\Foreign DLLS\PackageActionsContrib.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UComment", "..\ucomment-70298\branches\1.2\UComment\UComment.csproj", "{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCommentMigration", "..\ucomment-70298\branches\1.2\LegacyCommentMigration\LegacyCommentMigration.csproj", "{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uForum", "..\uforum-52439\trunk\uForum\uForum\uForum.csproj", "{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9A1E3317-5408-44CE-A2DB-BE5674363EF7}.Release|x86.ActiveCfg = Release|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{656FFAC9-E298-442B-A90F-5ED2B9F196D9}.Release|x86.ActiveCfg = Release|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{ACBFE83F-672E-41C5-A785-63B8B6B1CE0B}.Release|x86.ActiveCfg = Release|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6B895B54-C0FC-4325-A114-3DBED76F1374}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1E9651A2-BD5C-475F-9A25-33F85E5D7DDE}.Release|x86.ActiveCfg = Release|Any CPU
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Debug|x86.ActiveCfg = Debug|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Debug|x86.Build.0 = Debug|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Release|Any CPU.ActiveCfg = Release|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Release|x86.ActiveCfg = Release|x86
+		{E477C6CA-955C-4D78-AC09-BBEB6B5DEBFF}.Release|x86.Build.0 = Release|x86
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{547C2D0D-1B55-493B-AE0B-E031A5B8EE77}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8068A98B-A82C-4608-9343-A4170FBA0615} = {21737811-69FE-43A9-A547-7605557FAD31}
+		{C139849F-C46C-4918-BFE3-4A41139F0728} = {21737811-69FE-43A9-A547-7605557FAD31}
+		{742CF8B7-9FC4-4D25-B846-DCF77775025E} = {21737811-69FE-43A9-A547-7605557FAD31}
+		{CC14DFFE-354F-437F-8108-2A76F55F893A} = {742CF8B7-9FC4-4D25-B846-DCF77775025E}
+		{2ECDA938-F9CF-4DF9-A611-54CA7C541B33} = {742CF8B7-9FC4-4D25-B846-DCF77775025E}
+	EndGlobalSection
+EndGlobal

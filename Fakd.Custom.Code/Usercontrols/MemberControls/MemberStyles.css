@@ -1,0 +1,49 @@
+﻿.osMemberProfile, .passControls  { font:10px Verdana, Arial, Helvetica,sans-serif; border:none;width:500px;margin-bottom:30px;}
+
+.firstcell, .firstcellsignup  {width: 150px; border-right: 1px dotted  #c1c1c1;}
+.firstcellsignup label {width: 150px;padding-right: 20px; }
+
+.sidebar table {width: 150px;margin-top: 28px; }
+.sidebar table tr{height: 26px;}
+.sidebar table td a:hover{ text-decoration:underline}
+.RegisterForm td, .sidebar {vertical-align: top;}
+
+.osMemberProfile td, .passControls  td  {height:20px; padding-top: 5px; width: 355px}
+.osMemberProfile td:first-child:not(.firstcellsignup), .passControls  d:first-child:not(.firstcellsignup) {border:none}
+.osMemberProfile label, .passControls  label {font-weight:bold;}
+
+.osMemberProfile input, .passControls input{margin-left: 20px;width:300px;}
+.osMemberProfile textarea {margin-left: 20px;width:300px;margin-right: 5px;}
+.osMemberProfile select {margin-left: 20px;width:304px;}
+.osMemberProfile input[type='button'],#osMemberProfile input[type='submit'],#osMemberProfile input[type='cancel']{width: 100px;} 
+.osMemberProfile input[type='checkbox'] {width:13px;} 
+.osMemberProfile input[type='radio']{width:13px}
+.osMemberProfile textarea {height: 50px; margin-bottom: 5px;}
+
+.osMemberProfile input[type='checkbox'] + label {}
+
+.passControls input[type='button'], .passControls input[type='submit'],.passControls input[type='cancel'] { width: 100px;} 
+
+
+.stepcontent #osMemberProfile  {margin-top: 10px;}
+.buttons table td {float:left} 
+.buttons input[type='submit'] {}
+
+.signupheader {  height: 35px;padding:0;border:none;
+	background:#1c84c2;
+	color:#fff;
+	line-height:12px;
+	padding:2px 0 0;
+	margin:0 0 0 -11px;
+}
+.signupheader h3{ margin-left: 20px;font-weight:bold; }
+
+.leftalign {float:left; }
+
+
+.responseNewsletterSubscription { border: 1px solid; margin: 10px 0px; background-repeat: no-repeat; background-position: 10px center; overflow:hidden; margin:0 0 10px 0; color: #4F8A10; background-color: #DFF2BF; background-image:url('/nforum/img/msg/success.png');}
+
+.responseNewsletterLabel { display:block; padding: 0px 50px; margin:10px 0;}
+
+.hide {display:none;}
+

@@ -1,0 +1,12 @@
+﻿Du modtager denne email fordi et medlem har ændret sine oplysninger på fakd.dk.
+ 
+ 
+ Brugernavn : <%UserName%>
+ 
+ Du kan finde medlemmet i "Members" sektionen
+
+
+ Ændringer foretaget: <%changes%>
+
+        Med venlig hilsen
+        www.fakd.dk

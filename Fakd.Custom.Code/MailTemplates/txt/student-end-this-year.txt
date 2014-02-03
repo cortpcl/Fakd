@@ -1,0 +1,10 @@
+﻿
+        Denne mail indeholder en liste over studerende der snart er færdige.
+ 
+        G&aring; til <a href="http://www.diaetist.dk">www.diaetist.dk</a> og opgrader medlemmet til fuldgyldig diætist.
+    
+        <%users%>
+     
+        Med venlig hilsen
+      
+        www.diaetist.dk

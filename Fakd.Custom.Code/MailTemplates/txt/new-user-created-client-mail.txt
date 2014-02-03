@@ -1,0 +1,12 @@
+﻿Velkommen til diaetist.dk
+
+Du modtager denne email fordi du har opretttet dig som medlem på diaetist.dk.
+
+Du kan gå til http://www.diaetist.dk og log ind for at rette i dine personlige oplysninger, så snart du er blevet godkendt.
+
+Brugernavn: <%UserName%>
+Password:   <%Password%>
+
+Med venlig hilsen
+
+www.diaetist.dk

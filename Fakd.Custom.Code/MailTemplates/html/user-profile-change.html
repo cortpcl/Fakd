@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="da">
+<head>
+    <title>Nyt medlem</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link media="all" rel="stylesheet" type="text/css" href="http://<%Host%>/css/fakd.css" /><link media="print" rel="stylesheet" type="text/css" href="/css/fakd_print.css" />
+</head>
+<body>
+<div><a href="http://<%Host%>"><img src="http://<%Host%>/images/fakd/logo.jpg" alt="fakd"/></a></div>
+
+    <p>
+    
+       Du modtager denne email fordi et  medlem har ændret sine oplysninger på diaetist.dk.
+    </p>
+
+    <table cols="2">
+        <tr>
+            <td style="width: 90px">
+               Navn:
+            </td>
+            <td>
+                <strong>
+                    <%UserName%></strong>
+            </td>
+            </tr>
+            <tr>
+            <td colspan="2">Ændringer foretaget er vist nedenfor. Teksten i parentes er de gamle værdier.</td>
+            </tr>
+           <%changes%>
+
+    </table>
+    <br />
+    
+    <br />
+    <p>
+        Med venlig hilsen
+        <br />
+       <a href="http://<%Host%>"> www.diaetist.dk</a></p>
+</body>
+</html>

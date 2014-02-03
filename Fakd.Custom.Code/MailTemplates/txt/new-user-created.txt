@@ -1,0 +1,12 @@
+﻿Du modtager denne email fordi et nyt medlem har tilmeldt sig på diaetist.dk.
+ 
+ Gå til http://www.diaetist.dk og tildel personen et  nyt medlemsnummer.
+ 
+      Navn som personen er oprettet med: <%UserName%>
+
+      Email som personen er oprettet med: <%Email%>
+ 
+ Du kan finde medlemmet i "Members" sektionen, hvor medlemmets kan godkendes under Personlige oplysninger i feltet 'Godkendt.
+
+        Med venlig hilsen
+        www.diaetist.dk

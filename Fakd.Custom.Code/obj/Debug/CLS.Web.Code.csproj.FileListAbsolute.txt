@@ -1,0 +1,162 @@
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.pdb
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Antlr3.Runtime.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\businesslogic.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\cms.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\controls.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.AspNet.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.Core.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.Consumer.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\EntityFramework.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\System.Web.Optimization.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\System.Web.Providers.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.DataLayer.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.editorControls.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.Core.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\WebGrease.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\interfaces.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\ClientDependency.Core.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\HtmlAgilityPack.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\ICSharpCode.SharpZipLib.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\TidyNet.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\CookComputing.XmlRpcV2.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Examine.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.providers.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\UmbracoExamine.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Lucene.Net.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\MySql.Data.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.ApplicationBlocks.Data.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Licensing.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.References.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\EntityFramework.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.Core.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.Consumer.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.AspNet.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.XmlSerializers.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.pdb
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.pdb
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Antlr3.Runtime.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\businesslogic.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\cms.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\controls.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.AspNet.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.Core.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.Consumer.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\EntityFramework.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.Web.Infrastructure.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\System.Web.Optimization.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\System.Web.Providers.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.DataLayer.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.editorControls.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.Core.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\WebGrease.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\interfaces.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\ClientDependency.Core.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\HtmlAgilityPack.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\ICSharpCode.SharpZipLib.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\TidyNet.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\CookComputing.XmlRpcV2.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Examine.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.providers.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\UmbracoExamine.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Lucene.Net.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\MySql.Data.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.ApplicationBlocks.Data.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Licensing.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.References.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\EntityFramework.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.Core.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.Consumer.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.AspNet.xml
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.pdb
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.XmlSerializers.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.csprojResolveAssemblyReference.cache
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.dll
+Z:\Documents\Customers\Clublasanta\cls\code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.pdb
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.pdb
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.Web.Infrastructure.xml
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.pdb
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\CLS.Web.Code.pdb
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\businesslogic.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\cms.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\controls.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\interfaces.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.Web.Infrastructure.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.DataLayer.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.editorControls.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.Core.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\ClientDependency.Core.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\HtmlAgilityPack.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\ICSharpCode.SharpZipLib.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\TidyNet.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\CookComputing.XmlRpcV2.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Examine.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.providers.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\UmbracoExamine.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Lucene.Net.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\MySql.Data.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.ApplicationBlocks.Data.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Licensing.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.References.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.Web.Infrastructure.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\EntityFramework.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.Core.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OAuth.Consumer.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\DotNetOpenAuth.AspNet.xml
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.pdb
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.XmlSerializers.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.csprojResolveAssemblyReference.cache
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.dll
+Z:\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.pdb
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\businesslogic.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\cms.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\controls.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\interfaces.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.DataLayer.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.editorControls.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.Core.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\ClientDependency.Core.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\HtmlAgilityPack.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\ICSharpCode.SharpZipLib.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\TidyNet.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\CookComputing.XmlRpcV2.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Examine.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\UmbracoExamine.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Lucene.Net.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\MySql.Data.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Microsoft.ApplicationBlocks.Data.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Licensing.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\Umbraco.Forms.References.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.pdb
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.XmlSerializers.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\bin\umbraco.providers.dll
+\\psf\Home\Documents\Customers\Clublasanta\cls\code\Project Code\CLS.Web.Code\CLS.Web.Code\obj\Debug\CLS.Web.Code.csprojResolveAssemblyReference.cache
